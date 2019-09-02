@@ -4,6 +4,7 @@
 ## Blogs & Articles
 
 * [Why is modern web development so complicated? Part 1](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
+* [JavaScript and Node Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.md)
 
 ## Courses
 
