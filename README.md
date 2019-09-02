@@ -1,14 +1,20 @@
 
 # 🔰💻 Civil Servant Developer Learning Resources 💻🔰
 
-## Beginner 👶
+## Blogs & Articles
+
+* [Why is modern web development so complicated? Part 1](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
+
+## Courses
+
+### Beginner 👶
 
 * Colt Steele, The Web Developer Bootcamp - https://www.udemy.com/user/coltsteele/
 * Colt Steele, The Modern Python 3 Bootcamp - https://www.udemy.com/user/coltsteele/
 * Civil Service Coding Course - https://ddatlearntocode.netlify.com/
 * Learn Python the Hard Way - [book](https://www.amazon.co.uk/Learn-Python-Hard-Way-Introduction/dp/0134692888/ref=pd_sim_14_2/259-2932589-9826438?_encoding=UTF8&pd_rd_i=0134692888&pd_rd_r=7e445ed2-9d27-4fe9-a993-b80baca3e763&pd_rd_w=CX9la&pd_rd_wg=Vdjwf&pf_rd_p=1b8636ae-4f21-4403-a813-e8849dd46de4&pf_rd_r=0KP9VXVBYZB1Y63ZMKA9&psc=1&refRID=0KP9VXVBYZB1Y63ZMKA9)
 
-## Intermediate 👩
+### Intermediate 👩
 
 * Wes Bos, Learn Node - www.wesbos.com (replace Pug with Nunjucks for extra practice)
 * Wes Bos, JavaScript 30 - www.wesbos.com
@@ -19,7 +25,7 @@
 * Codewars coding challenges - www.codewars.com 
 * Wes Bos, ES6 for Everyone - www.wesbos.com
 
-## Advanced 🔥
+### Advanced 🔥
 
 * Wes Bos, React for Beginners - www.wesbos.com
 * Wes Bos, Advanced React - www.wesbos.com
