@@ -1,6 +1,10 @@
 
 # 🔰💻 Civil Servant Developer Learning Resources 💻🔰
 
+## Other government resources
+
+* [GDS Tech Learning Pathway](https://gds-tech-learning-pathway.cloudapps.digital/#learning-pathways-at-gds)
+
 ## Blogs & Articles
 
 * [Why is modern web development so complicated? Part 1](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
