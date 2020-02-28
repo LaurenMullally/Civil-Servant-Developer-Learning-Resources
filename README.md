@@ -34,3 +34,17 @@
 
 * Wes Bos, React for Beginners - www.wesbos.com
 * Wes Bos, Advanced React - www.wesbos.com
+
+### PluralSight
+These courses require a Pluralsight license
+
+#### JavaScript
+* Mark Zamoyta, JavaScript: Getting Started - https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents
+* Mark Zamoyta, JavaScript Fundamentals - https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents
+
+#### React
+* Cory House, React: The Big Picture - https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents
+* Samer Buna, React: Getting Started - https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
+* Liam McLennan, React Fundamentals - https://app.pluralsight.com/library/courses/react-fundamentals-update/table-of-contents
+* Peter Kellner, Using React Hooks - https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
+* Cory House, Building Applications With React And Redux - https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
